@@ -7,6 +7,7 @@ public class Main {
         System.out.println("#######################");
         jose = new Persona("PEpito PErez");
         System.out.println("#######################");
+        System.out.println("MODIFICANDO HOTFIX");
 
 
         jose.caminar();
